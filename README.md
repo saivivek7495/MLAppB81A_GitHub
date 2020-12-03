@@ -1,4 +1,4 @@
-# MLAppB81A_GitHub
+# MLAppB81A_GitHub_Module_PGP
 
 #Creating a new MLApp Repository to learn the In's and Out's of Git and GitHub
 
